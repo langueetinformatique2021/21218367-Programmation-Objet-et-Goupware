@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author rliu
- *
- */
-module COURSJAVA {
-}
