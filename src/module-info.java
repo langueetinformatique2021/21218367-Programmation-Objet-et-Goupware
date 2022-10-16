@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author Rujiao
+ * @author rliu
  *
  */
 module COURSJAVA {
