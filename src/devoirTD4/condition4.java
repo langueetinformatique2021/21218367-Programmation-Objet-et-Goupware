@@ -1,4 +1,4 @@
-package atelier4;
+package devoirTD4;
 import java.util.Arrays;
 public class condition4 {
 	
